@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "generate": "reveal-md slides.md --static",
+    "generate": "reveal-md slides.md --static _site",
     "serve": "reveal-md slides.md"
   },
   "dependencies": {
