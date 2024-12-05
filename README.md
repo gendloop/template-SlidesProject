@@ -14,4 +14,5 @@ Visit https://template-slidesproject.netlify.app/ or https://gendloop.github.io/
 
 ## References
 
-1. [learningnotes/reveal-md](https://www.yuque.com/gendloop/learningnotes/reveal-md) 
+1. [webpro/reveal-md](https://github.com/webpro/reveal-md)
+2. [learningnotes/reveal-md](https://www.yuque.com/gendloop/learningnotes/reveal-md) 
