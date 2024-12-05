@@ -47,35 +47,42 @@ h1, h2, h3, h4, h5, p, pre, code {
 
 # template-SlidesProject
 
-时间: 2023-01 ~ 2023-12
+date: 2023-01 ~ 2023-12
 
-来源: [template-SlidesProject](https://github.com/gendloop/template-SlidesProject) 
+source: [template-SlidesProject](https://github.com/gendloop/template-SlidesProject) 
 
-* \>\>\> 按 `Space` 前进 
-* <<< 按 `Shift` + `Space` 后退 
+* \>\>\> Press `Space` to move forward.
+* <<< Press `Shift + Space` to move backward.
 
 
-
----
-
-## 工作总结 
-
-* 1~2月
-  * XXX
-* 3~4月
-  * XXX
-* 5~6月
-  * XXX
-* 7月
-  * XXX
 
 ---
 
-* 8月
-  * XXX
-* 9月
-  * XXX
-* 10月
-  * XXX
-* 11~12月
-  * XXX
+## Work Summary
+
+* **January ~ February**
+  * Achieved project milestones successfully.
+
+* **March ~ April**
+  * Implemented new software feature, improving efficiency.
+
+* **May ~ June**
+  * Collaborated to launch product ahead of schedule.
+
+* **July**
+  * Attended industry conference for insights.
+
+---
+
+* **August**
+  * Initiated process improvement project, reducing costs.
+
+* **September**
+  * Resolved critical issues, ensuring timely delivery.
+
+* **October**
+  * Implemented quality assurance measures, reducing errors.
+
+* **November ~ December**
+  * Successfully completed year-end project within constraints.
+
