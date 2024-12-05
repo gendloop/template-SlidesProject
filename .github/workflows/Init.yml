@@ -40,7 +40,7 @@ jobs:
           path-to-replace: 'README.md'
           replace-to-path: 'README.md'
           str-to-replace: 'gendloop'
-          replace-to-str: ${{ steps.get-repo-name.outputs.reponame }}
+          replace-to-str: ${{ github.actor }}
 
       - name: replace-slides.md
         uses: gendloop/replace-str@v1.0.1
@@ -49,7 +49,7 @@ jobs:
           path-to-replace: 'slides.md'
           replace-to-path: 'slides.md'
           str-to-replace: 'template-SlidesProject'
-          replace-to-str: ${{ github.actor }}
+          replace-to-str: ${{ steps.get-repo-name.outputs.reponame }}
 
       - name: remove-useless
         working-directory: ${{ github.workspace }}
