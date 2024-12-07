@@ -1,15 +1,15 @@
 ---
 title                 : template-SlidesProject
 author                : gendloop
-date                  : Jan. 20, 2023
+date                  : 2023-01-01
 theme                 : white_contrast_compact_verbatim_headers
 highlightTheme        : vs
 revealOptions:                          # https://revealjs.com/config/
     transition        : 'fade'          # none, fade, slide, convex, concave, zoom
     transitionSpeed   : 'default'       # default, fast, slow
     slideNumber       : true
-    loop              : false
-    autoSlide         : 10000            # milliseconds
+    loop              : false           
+    autoSlide         : 8000            # milliseconds
     autoPlayMedia     : null            # null, true, false
     viewDistance      : 3
     mouseWheel        : true
